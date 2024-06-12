@@ -1,4 +1,3 @@
-Physicist with a strong interest in engineering and economics
 
 <!--
 **scharaner/scharaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
